@@ -23,8 +23,10 @@
 |----------|------|
 | L2 Reading Booklet | [resources/L2 Reading Booklet.pdf](resources/L2%20Reading%20Booklet.pdf) |
 | L2 Reading Booklet — Answer Key | [resources/L2 Reading Booklet Answer Key.pdf](resources/L2%20Reading%20Booklet%20Answer%20Key.pdf) |
+| L2 Reading Booklet — Pages (JPG) | [resources/reading_booklet_pages/](resources/reading_booklet_pages/) |
 | L2 Writing Booklet | [resources/L2 Writing Booklet.pdf](resources/L2%20Writing%20Booklet.pdf) |
 | L2 Writing Booklet — Answer Key | [resources/L2 Writing Booklet Answer Key.pdf](resources/L2%20Writing%20Booklet%20Answer%20Key.pdf) |
+| L2 Writing Booklet — Pages (JPG) | [resources/writing_booklet_pages/](resources/writing_booklet_pages/) |
 
 ## Admin Documents
 
@@ -49,6 +51,8 @@ vocab.md                   — unified vocabulary for Anki
 3_thu_andrew/              — Thursday classes (Andrew)
 essays/                    — Writing assignments
 resources/                 — Course booklets (Reading/Writing), shared scans, Teams files
+  ├── reading_booklet_pages/ — Reading Booklet as individual JPGs (p01.jpg–p61.jpg)
+  ├── writing_booklet_pages/ — Writing Booklet as individual JPGs (p01.jpg–p98.jpg)
   └── admin/               — Enrolment docs, agreements, admin paperwork
 _templates/                — Reusable templates (class, hw, hw_solution, notes)
 _archive/                  — Old files (pre-reorganization)

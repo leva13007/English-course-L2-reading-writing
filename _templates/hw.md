@@ -8,9 +8,9 @@
 
 -
 
-<!-- Reference booklet pages like this:
-Reading Booklet p. 12–13 (see resources/L2 Reading Booklet.pdf)
-Writing Booklet p. 10–12 (see resources/L2 Writing Booklet.pdf)
+<!-- Reference booklet pages (page N = pN.jpg):
+![Reading p.12](../../resources/reading_booklet_pages/p12.jpg)
+![Writing p.10](../../resources/writing_booklet_pages/p10.jpg)
 -->
 
 ## Materials
