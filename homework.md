@@ -7,7 +7,7 @@
 
 | Due        | Teacher  | Task | Status | Details |
 |------------|----------|------|--------|---------|
-|            |          |      |        |         |
+| 2026-03-12 | Andrew   | Writing Booklet Task 1 p. 6–17 | 🔴 | [→](3_thu_andrew/2026-03-05/hw.md) |
 
 ## Done
 
