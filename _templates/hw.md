@@ -8,6 +8,11 @@
 
 -
 
+<!-- Reference booklet pages like this:
+Reading Booklet p. 12–13 (see resources/L2 Reading Booklet.pdf)
+Writing Booklet p. 10–12 (see resources/L2 Writing Booklet.pdf)
+-->
+
 ## Materials
 
 <!--

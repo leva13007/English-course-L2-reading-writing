@@ -2,11 +2,13 @@
 
 ## Schedule
 
-| Day | Teacher | Format |
-|-----|---------|--------|
-| Tuesday | Gozde Erdogan | Offline |
-| Wednesday | Jonathan Lecun | Online |
-| Thursday | Andrew Patterson | Offline |
+| Day | Time | Hrs | Teacher | Room | Format |
+|-----|------|-----|---------|------|--------|
+| Tuesday | 17:45–20:45 | 3 | Gozde Erdogan | 332 | Offline (CC) |
+| Wednesday | 17:45–19:45 | 2 | Jonathan Lecun | N/A | Online |
+| Thursday | 17:45–20:45 | 3 | Andrew Patterson | 202 | Offline (CC) |
+
+**Course period:** 23/02/2026 – 17/07/2026 (18 weeks)
 
 ## Quick Links
 
@@ -14,6 +16,22 @@
 - [Vocabulary](vocab.md) — unified word list for Anki
 - [Essays](essays/)
 - [Templates](_templates/)
+
+## Course Materials
+
+| Document | Path |
+|----------|------|
+| L2 Reading Booklet | [resources/L2 Reading Booklet.pdf](resources/L2%20Reading%20Booklet.pdf) |
+| L2 Reading Booklet — Answer Key | [resources/L2 Reading Booklet Answer Key.pdf](resources/L2%20Reading%20Booklet%20Answer%20Key.pdf) |
+| L2 Writing Booklet | [resources/L2 Writing Booklet.pdf](resources/L2%20Writing%20Booklet.pdf) |
+| L2 Writing Booklet — Answer Key | [resources/L2 Writing Booklet Answer Key.pdf](resources/L2%20Writing%20Booklet%20Answer%20Key.pdf) |
+
+## Admin Documents
+
+| Document | Path |
+|----------|------|
+| ESOL Learner Agreement | [resources/admin/ESOL learner agreement.jpg](resources/admin/ESOL%20learner%20agreement.jpg) |
+| Timetable | [resources/admin/Timetable.jpg](resources/admin/Timetable.jpg) |
 
 ## Structure
 
@@ -30,7 +48,8 @@ vocab.md                   — unified vocabulary for Anki
 2_wed_jonathan/            — Wednesday online classes (Jonathan)
 3_thu_andrew/              — Thursday classes (Andrew)
 essays/                    — Writing assignments
-resources/                 — Shared scans, handouts, Teams files
+resources/                 — Course booklets (Reading/Writing), shared scans, Teams files
+  └── admin/               — Enrolment docs, agreements, admin paperwork
 _templates/                — Reusable templates (class, hw, hw_solution, notes)
 _archive/                  — Old files (pre-reorganization)
 ```
