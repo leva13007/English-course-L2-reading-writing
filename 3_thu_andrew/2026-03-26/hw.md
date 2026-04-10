@@ -1,7 +1,7 @@
 # Homework — 2026-03-26
 
 **Assigned:** 2026-03-26
-**Due:** 2026-04-02 (next Thursday)
+**Due:** 2026-04-16
 **Status:** 🔴 Not started
 
 ## Task
