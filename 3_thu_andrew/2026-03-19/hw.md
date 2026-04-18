@@ -9,9 +9,10 @@
 1. **Write a film review** (120–180 words)
    - Choose a film you have recently watched
    - Follow the structure and language from class resources
-   - Use [07) PlusPreIntU7 Film review.pdf](attachments/07)%20PlusPreIntU7%20Film%20review.pdf) and [Writing a film review.pdf](../2026-03-12/attachments/Writing%20a%20film%20review.pdf) as guides
+   - You can use the plan template in ![Ex 3 p. 56 screen](./attachments/001.png)
+   - Use [07) PlusPreIntU7 Film review.pdf](attachments/07_PlusPreIntU7_Film_review.pdf) and [Writing a film review.pdf](attachments/Writing_a_film_review.pdf) as guides
 
 ## Materials
 
-- [07) PlusPreIntU7 Film review.pdf](attachments/07)%20PlusPreIntU7%20Film%20review.pdf)
-- [Writing a film review.pdf](../2026-03-12/attachments/Writing%20a%20film%20review.pdf)
+- [07) PlusPreIntU7 Film review.pdf](attachments/07_PlusPreIntU7_Film_review.pdf)
+- [Writing a film review.pdf](attachments/Writing_a_film_review.pdf)
