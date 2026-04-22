@@ -2,7 +2,7 @@
 
 **Assigned:** 2026-04-14  
 **Due:** 2026-04-21  
-**Status:** 🔴 Not started
+**Status:** � Done
 
 ---
 
@@ -26,24 +26,24 @@ Complete the comparison notes about aluminium screw caps vs. cork bottle stopper
 
 | # | Statement | Answer |
 |---|-----------|--------|
-| 1 | The cork oak has the thickest bark of any living tree. | |
-| 2 | Scientists have developed a synthetic cork with the same cellular structure as natural cork. | |
-| 3 | Individual cork oak trees must be left for 25 years between the first and second harvest. | |
-| 4 | Cork bark should be stripped in dry atmospheric conditions. | |
-| 5 | The only way to remove the bark from cork oak trees is by hand. | |
+| 1 | The cork oak has the thickest bark of any living tree. | NOT GIVEN |
+| 2 | Scientists have developed a synthetic cork with the same cellular structure as natural cork. | FALSE |
+| 3 | Individual cork oak trees must be left for 25 years between the first and second harvest. | FALSE |
+| 4 | Cork bark should be stripped in dry atmospheric conditions. | TRUE |
+| 5 | The only way to remove the bark from cork oak trees is by hand. | TRUE |
 
 **Questions 6–13:**
 
 | # | Answer |
 |---|--------|
-| 6 | |
-| 7 | |
-| 8 | |
-| 9 | |
-| 10 | |
-| 11 | |
-| 12 | |
-| 13 | |
+| 6 | taste |
+| 7 | cheaper |
+| 8 | convenient |
+| 9 | image |
+| 10 | sustainable |
+| 11 | recycled |
+| 12 | biodiversity |
+| 13 | desertification |
 
 ## Materials
 
