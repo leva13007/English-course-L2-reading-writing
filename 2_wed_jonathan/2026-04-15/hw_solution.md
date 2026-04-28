@@ -106,18 +106,18 @@ In conclusion, volunteering activity has grown positively in two out of three ne
 
 **Report on Community Volunteering Hours in Three Neighbourhoods (2018–2024)**
 
-**Introduction**
+**Purpose and Scope**  
 This report examines trends in community volunteering hours across three neighbourhoods — Eastside, Hillview, and Riverside — between 2018 and 2024. The data records average volunteering hours per week for each area. The report compares developments across the period and concludes with two recommendations aimed at improving overall community engagement.
 
-**Overview of Trends**
+**Overview of Trends**  
 The data reveals a broadly positive picture, with two of the three neighbourhoods showing sustained growth over the six-year period. Eastside experienced the largest absolute increase, rising from 120 to 170 hours per week. Riverside recorded the strongest relative growth, increasing by approximately 58% from 95 to 150 hours per week. Hillview, however, presents a contrasting picture: after falling sharply from 80 to 60 hours per week in 2020, it recovered only partially, reaching 75 hours by 2024 — still below its 2018 level.
 
-**Comparison**
+**Comparison**  
 Throughout the entire period, Eastside consistently recorded the highest volunteering figures. By 2024, the gap between Eastside and Riverside had narrowed considerably — from 25 hours per week in 2018 to just 20 hours in 2024 — suggesting that Riverside is gradually closing the gap. Hillview, by contrast, remained the lowest-performing neighbourhood across all four data points. Notably, by 2024 the difference between Eastside and Hillview had grown from 40 to 95 hours per week, highlighting a widening disparity in community engagement.
 
-**Recommendations**
+**Recommendations**  
 First, it is recommended that local authorities conduct a community survey in Hillview to identify the barriers to volunteering that led to the 2020 decline. Without understanding the root causes, any intervention is likely to have limited impact.
 Second, Eastside and Riverside should be invited to share their engagement models with Hillview through inter-neighbourhood workshops. This peer-learning approach could help replicate successful strategies and support a more sustained recovery.
 
-**Conclusion**
+**Conclusion**  
 In conclusion, community volunteering has increased significantly in Eastside and Riverside between 2018 and 2024, demonstrating strong civic engagement in these areas. Hillview, however, has yet to return to its 2018 level and requires targeted support. If appropriate measures are taken, it is reasonable to expect that volunteering rates will improve across all three neighbourhoods in the coming years.
