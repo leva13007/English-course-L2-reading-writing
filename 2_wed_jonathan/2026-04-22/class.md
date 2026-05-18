@@ -1,4 +1,4 @@
-# YYYY-MM-DD
+# 2026-04-22
 
 ## Topic
 
@@ -6,7 +6,7 @@
 ## Class Notes
 
 - потрібно зрозуміти історію з картинки
-![alt text](image.png)
+![alt text](attachments/image.png)
 📖 Історія (простими словами)
 Це про гіперінфляцію в Німеччині (1920-ті роки).
 Після Першої світової війни:
@@ -20,7 +20,7 @@ The picture shows a period of hyperinflation in Germany, when money lost its val
 ---
 
 - проговорити наступні 5 питань
-![alt text](002.png)
+![alt text](attachments/002.png)
 
 Questions
 1 How would you describe the economic situation in your country at the moment?
@@ -32,7 +32,7 @@ Questions
 ---
 
 - графік для репорту
-![alt text](003.png)
+![alt text](attachments/003.png)
 
 key notes / bullet points, щоб ти міг швидко побудувати відповідь 
 
@@ -97,7 +97,7 @@ The key feature of the graph is the strong contrast between stable inflation in 
 
 ---
 
-![alt text](image.png)
+![alt text](attachments/image.png)
 Useful statistics language
 1. Turkey s___ a dramatic rise in inflation in 2021
 2. It is n___ that Turkey experienced the highest levels of inflation of the four countries
@@ -141,7 +141,7 @@ Inflation is the general increase in prices over time, which reduces the purchas
 
 ---
 
-![alt text](image-1.png)
+![alt text](attachments/image-1.png)
 Introduction
 This report describes trends in inflation rates recorded between 2016 and 2024. The data is
 presented in a line graph showing how inflation changed over time in four countries: the
@@ -155,7 +155,7 @@ for the differences observed during this period.
 • A formal verb meaning "seen"
 • A formal verb meaning explain in a general way
 
-![alt text](image-2.png)
+![alt text](attachments/image-2.png)
 Overall Trends
 Overall, it can be seen that inflation increased noticeably across the timeline, although the
 scale of this rise varied significantly between the four countries. A steady upward
@@ -170,7 +170,7 @@ widespread price instability.
 • A two-word phrase meaning a quick increase
 • A formal verb meaning continue to have
 
-![alt text](image-3.png)
+![alt text](attachments/image-3.png)
 Detailed Analysis
 In comparison with the other countries, the United Kingdom experiences a moderate rise,
 with inflation peaking around 2022 before beginning to fall. Hungary shows a much steeper
@@ -184,7 +184,7 @@ monetary policies, currency instability, and greater exposure to external econom
 • A two-word phrase meaning tiny changes
 • A three-word formal way to say "after this year"
 
-![alt text](image-4.png)
+![alt text](attachments/image-4.png)
 Conclusion and Prediction
 In conclusion, the data shows that inflation became more volatile and more severe in many
 countries between 2016 and 2024. It is likely that these pressures will continue unless global
@@ -324,7 +324,7 @@ remember:
 | backs up | supports |
 
 
-![alt text](image-5.png)
+![alt text](attachments/image-5.png)
 Let's have a speaking practice:
 
 1. What do you think are the five most visited countries in the world? What position do you
@@ -334,9 +334,12 @@ think the UK is in? (It's not in the top five).
 4. What was the effect of Covid on international travel and tourism?
 5. Which industries and job areas were worst affected by the Covid crisis?
 
-![alt text](image-6.png)
+![alt text](attachments/image-6.png)
 2 min to make some notes, then 2 min to speak about one of the questions.
 
+
+Homework
+![alt text](attachments/telegram-cloud-photo-size-2-5424632472282011910-y.jpg)
 
 
 ## Materials
