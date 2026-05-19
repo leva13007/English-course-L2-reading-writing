@@ -1,12 +1,13 @@
-# YYYY-MM-DD
+# 2026-04-23
 
 ## Topic
 
+Music review writing (Macy Gray texts, p.25); phrasal verbs & idioms — Module 2
 
 ## Class Notes
 
-![alt text](telegram-cloud-photo-size-2-5429160381424275996-y.jpg)
-![alt text](telegram-cloud-photo-size-2-5429160381424275997-y.jpg)
+![alt text](attachments/telegram-cloud-photo-size-2-5429160381424275996-y.jpg)
+![alt text](attachments/telegram-cloud-photo-size-2-5429160381424275997-y.jpg)
 
 - сьогодны буде music review. того що це може бути на екзамені, я не знаю, але це буде цікаво.
 - перше потрыбно заповнити пропуски словами з списку. Частина відноситься до концерту частина до альбому а деякі до обох!
@@ -88,8 +89,8 @@ b) Write your review. Collect the reviews into a music guide for other students 
 
 Module 2
 
-![alt text](telegram-cloud-photo-size-2-5429160381424276098-y.jpg)
-![alt text](telegram-cloud-photo-size-2-5429160381424276099-y.jpg)
+![alt text](attachments/telegram-cloud-photo-size-2-5429160381424276098-y.jpg)
+![alt text](attachments/telegram-cloud-photo-size-2-5429160381424276099-y.jpg)
 
 | Phrasal Verb | Meaning |
 |--------------|---------|
@@ -131,8 +132,8 @@ Module 2
 
 ---
 
-![alt text](telegram-cloud-photo-size-2-5429160381424276278-y.jpg)
-![alt text](telegram-cloud-photo-size-2-5429160381424276279-y.jpg)
+![alt text](attachments/telegram-cloud-photo-size-2-5429160381424276278-y.jpg)
+![alt text](attachments/telegram-cloud-photo-size-2-5429160381424276279-y.jpg)
 
 
 ---
