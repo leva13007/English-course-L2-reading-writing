@@ -11,6 +11,9 @@
 | 2026-03-19 | Andrew   | PlusFCE Article p.56 Ex 3 + Write article (120–180 words) | 🔴 | [→](3_thu_andrew/2026-03-12/hw.md) |
 | 2026-03-26 | Andrew   | Write a film review (120–180 words) | 🔴 | [→](3_thu_andrew/2026-03-19/hw.md) |
 | 2026-04-16 | Andrew   | Complete L2 R - Paper A (1).pdf + review with Mark Scheme | 🔴 | [→](3_thu_andrew/2026-03-26/hw.md) |
+| 2026-05-19 | Gozde   | Complex sentences from 2 charts (Student Pass Rates + Transport by Age) | 🟢 | [→](1_tue_gozde/2026-05-12/hw.md) |
+| 2026-05-26 | Gozde   | Personal statement (220+ words, formal, INTJ-A test as content) | 🟢 | [→](1_tue_gozde/2026-05-19/hw.md) |
+| 2026-06-09 | Gozde   | Passive voice exercises (2 handout pages) | 🔴 | [→](1_tue_gozde/2026-06-02/hw.md) |
 
 ## Done
 
