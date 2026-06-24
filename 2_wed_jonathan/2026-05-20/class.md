@@ -1,4 +1,4 @@
-# YYYY-MM-DD
+# 2026-05-20
 
 ## Topic
 
@@ -25,7 +25,7 @@ The way the blood appeared on the wall means the killer MUST / MIGHT HAVE BEEN| 
 handed.
 
 In groups to discuss about the evidence for statements at the pic below and to make deductions
-![alt text](image.png)
+![alt text](attachments/image.png)
 
 Present
 | Modal | Meaning | Confidence |
@@ -46,12 +46,12 @@ Past
 | COULD HAVE | 50% certain | 50% |
 | CAN'T HAVE | 0% certain | 0% |
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](attachments/image-1.png)
+![alt text](attachments/image-2.png)
 
 
 Why A is wrong and why B is correct?
-![alt text](image-3.png)
+![alt text](attachments/image-3.png)
 
 Discussion point 4
 You made loads of mistakes in your work.
@@ -105,7 +105,7 @@ Pie chart of Nobel Prize winners by country
 66% = two thirds
 10% = a tenth
 
-![alt text](image-4.png)
+![alt text](attachments/image-4.png)
 
 |||
 |-|-|
@@ -119,7 +119,7 @@ Pie chart of Nobel Prize winners by country
 
 if you want to be more accurate, you can say: slightly less than a half(49%) or just over a half(51%)
 
-![alt text](image-5.png)
+![alt text](attachments/image-5.png)
 3 Ways to talk about part of the total
 * X makes up ___ (of the total)
 * X accounts for ___ (of the total)
@@ -132,7 +132,7 @@ winners
 
 ---
 Write 2 sentences using make up, account for, or represent to talk about part of the total in the pie chart below:
-![alt text](image-6.png)
+![alt text](attachments/image-6.png)
 
 ✔ French Nobel prize winners make up slightly more than 6% of the total.
 ✔ Swedish Nobel prize winners account for 2.7% of the total.
@@ -141,15 +141,16 @@ Write 2 sentences using make up, account for, or represent to talk about part of
 ---
 
 Топ 5 країн за CO2 викидами
-![alt text](image-7.png)
+![alt text](attachments/image-7.png)
 
 
 
-![alt text](image-8.png)
+![alt text](attachments/image-8.png)
 
 ---
 
 HW: about coffee
+![alt text](attachments/image-9.png)
 
 ## Materials
 

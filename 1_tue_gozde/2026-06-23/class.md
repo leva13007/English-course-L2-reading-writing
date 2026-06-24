@@ -1,11 +1,21 @@
-# 2026-05-21
+# 2026-06-23
 
 ## Topic
 
 
 ## Class Notes
 
--
+- p 26-29
+The website for synonyms is https://www.thesaurus.com/
+
+
+- p 39-43
+
+
+
+
+
+
 
 ## Materials
 

@@ -1,3 +1,9 @@
+---
+status: active
+category: learning
+stack: Markdown, Anki
+---
+
 # L2 Reading & Writing
 
 ## Schedule
@@ -68,3 +74,7 @@ _archive/                  — Old files (pre-reorganization)
 6. Add new words → [vocab.md](vocab.md) under the teacher's section
 7. Mark ✅ in vocab.md when word is added to Anki
 8. Update status in [homework.md](homework.md): 🔴→🟡→🟢
+
+## Next Step
+
+Before Tuesday's class (Gozde, room 332): copy `_templates/class.md` → `1_tue_gozde/2026-06-10/class.md`.

@@ -1,4 +1,4 @@
-# YYYY-MM-DD
+# 2026-06-03
 
 ## Topic
 
@@ -312,7 +312,7 @@ Small talk about your experiences of visiting islands.
 
 ---
 
-![alt text](image.png)
+![alt text](attachments/image.png)
 
 ---
 
@@ -339,7 +339,30 @@ c) The Isle of Man combines unique constitutional status, historical importance,
 d) The Isle of Man's identity is defined mainly by its agricultural development
 
 
+---
 
+HW:
+WRITING PRACTICE
+PARAGRAPH WRITING
+ 
+1 Sentence
+2 Consequently > Introduces a result from 1
+3 Indeed > Introduces a second point that supports 2
+ 
+EXAMPLE
+ 
+The company introduced a new customer support system last month. Consequently, response times decreased significantly and customer satisfaction improved. Indeed, recent surveys showed that customers rated the service more highly than at any point in the past three years.
+ 
+PRACTICE
+ 
+Write a new paragraph using the same pattern on one of these topics
+ 
+1 AI
+2 Global warming
+3 Working from home
+ 
+You can write by text or by taking a photo of your work.
+ 
 
 
 ## Materials

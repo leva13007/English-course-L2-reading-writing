@@ -13,7 +13,10 @@
 | 2026-04-16 | Andrew   | Complete L2 R - Paper A (1).pdf + review with Mark Scheme | 🔴 | [→](3_thu_andrew/2026-03-26/hw.md) |
 | 2026-05-19 | Gozde   | Complex sentences from 2 charts (Student Pass Rates + Transport by Age) | 🟢 | [→](1_tue_gozde/2026-05-12/hw.md) |
 | 2026-05-26 | Gozde   | Personal statement (220+ words, formal, INTJ-A test as content) | 🟢 | [→](1_tue_gozde/2026-05-19/hw.md) |
-| 2026-06-09 | Gozde   | Passive voice exercises (2 handout pages) | 🔴 | [→](1_tue_gozde/2026-06-02/hw.md) |
+| 2026-06-09 | Gozde    | Passive voice exercises (2 handout pages) | 🔴 | [→](1_tue_gozde/2026-06-02/hw.md) |
+| 2026-06-10 | Jonathan | Paragraph: Consequently / Indeed pattern (AI / Global warming / WFH) | 🔴 | [→](2_wed_jonathan/2026-06-03/hw.md) |
+| 2026-06-11 | Andrew   | Writing Booklet p16–17 fill form + Planning 4 p.23 write a plan | 🔴 | [→](3_thu_andrew/2026-06-04/hw.md) |
+| 2026-06-17 | Jonathan | Newspaper article 200+ words (volunteer work or English tips) | 🔴 | [→](2_wed_jonathan/2026-06-10/hw.md) |
 
 ## Done
 
