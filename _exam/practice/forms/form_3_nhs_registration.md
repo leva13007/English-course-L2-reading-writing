@@ -3,7 +3,7 @@
 
 **Situation:** You have recently moved to a new area of Cardiff and need to register with a local GP surgery. Complete the registration form below.
 
----
+# PART 1 — EXAM SHEET *(print this page, write by hand)*
 
 ## Section 1 — Personal Details
 
@@ -27,8 +27,6 @@ Postcode: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Next of kin — name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Next of kin — telephone:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
----
 
 ## Section 2 — Health and Contact Information
 
@@ -73,34 +71,30 @@ Yes, please list below &nbsp;&nbsp;&nbsp; No
 
 If yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
-
 ## Section 3 — Written Responses
 
 Please answer the following questions in **full sentences**. Write at least **5 correct sentences in total** across all three answers.
 
 **1. Why are you registering with this GP surgery, and how long have you lived at your current address?**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **2. Are there any ongoing health conditions or past medical history that you feel the doctor should be aware of?**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **3. Is there anything else you would like the surgery to know about your health or personal circumstances?**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
----
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## Self-check (AC 3.1)
 
@@ -116,3 +110,93 @@ Please answer the following questions in **full sentences**. Write at least **5 
 - *To the best of my knowledge, I do not have any serious medical conditions...*
 - *I would like the doctor to be aware that I have [CONDITION], which was diagnosed in [YEAR]...*
 - *I am currently taking [MEDICATION] as prescribed by my previous GP...*
+
+---
+---
+
+# PART 2 — EXAMPLE SOLUTION *(read only after you have completed your own form)*
+
+## Section 1 — Personal Details
+
+**Full name:** Oleh Levchenko
+
+**Date of birth:** 15 / 03 / 1992
+
+**Home address:**
+Number and street: 14 Roath Court Road
+Town/city: Cardiff
+Postcode: CF24 3AA
+
+**Telephone number:** 07712 345678
+
+**Email address:** oleh.levchenko@email.co.uk
+
+**NHS number (if known):** Not known
+
+**Next of kin — name:** Olena Levchenko
+
+**Next of kin — telephone:** 07798 765432
+
+## Section 2 — Health and Contact Information
+
+**1.** What is your gender? **Tick ONE box.**
+
+☑ Male
+☐ Female
+☐ Non-binary
+☐ Prefer not to say
+
+**2.** Are you currently registered with another GP surgery? **Delete as appropriate.**
+
+Yes &nbsp; / &nbsp; ~~No~~
+
+If yes, name of previous surgery: Cathays Health Centre
+
+**3.** How do you prefer to be contacted about appointments? **Tick ONE box.**
+
+☐ Telephone call
+☑ Text message
+☐ Email
+☐ Post (letter)
+
+**4.** Do you smoke? **Circle ONE option.**
+
+Yes, currently &nbsp;&nbsp; Previously, but I have stopped &nbsp;&nbsp; **No, never**
+
+**5.** Do you have any of the following? **Tick ALL that apply.**
+
+☐ Diabetes
+☐ High blood pressure
+☐ Asthma or breathing problems
+☐ Heart condition
+☐ Allergies (food or medicine)
+☑ None of the above
+
+**6.** Are you currently taking any regular medication? **Underline ONE answer.**
+
+Yes, please list below &nbsp;&nbsp;&nbsp; <u>No</u>
+
+If yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Section 3 — Written Responses
+
+**1. Why are you registering with this GP surgery, and how long have you lived at your current address?**
+
+I am registering with this surgery because I recently moved to this area of Cardiff and no longer live close enough to my previous GP. I have been living at my current address for approximately three months, having relocated from Newport for work. I would like to register as soon as possible so that I have access to local healthcare services.
+
+**2. Are there any ongoing health conditions or past medical history that you feel the doctor should be aware of?**
+
+To the best of my knowledge, I do not have any serious medical conditions or chronic illnesses. I had minor surgery on my left knee in 2018, but this has fully healed and does not currently cause me any problems. I am not aware of any allergies to food or medication.
+
+**3. Is there anything else you would like the surgery to know about your health or personal circumstances?**
+
+There is nothing further I would like the surgery to know about my health at this time. However, I would appreciate it if appointment reminders could be sent by text message, as this is the easiest way for me to manage my schedule. I will update the surgery promptly if my circumstances change.
+
+---
+
+**What makes this answer good:**
+- All Section 2 choices are consistent with each other and with the Section 3 answers (recently moved, no ongoing conditions, prefers text messages)
+- Written answers give specific, believable detail (dates, places, a past minor procedure) instead of vague statements
+- Formal, factual tone throughout — appropriate for medical information
+- Q3 closes politely rather than leaving the answer empty
+- No contractions anywhere in the written responses

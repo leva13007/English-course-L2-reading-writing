@@ -24,6 +24,8 @@ Three sections:
 
 Key rule: Section 3 must have **at least 5 correct sentences total** across all questions. Section 1 capitals/lower case must be exact; address order: building number → street name → town/city → postcode.
 
+**Marking insight:** Examiners select only the **5 best sentences** from across the whole of Section 3 and mark only those — every other sentence is ignored entirely, errors included, they are not penalised. → Aim to write **7–8 sentences**, not just 5, so the weakest ones can be "sacrificed" and you can risk 1–2 more ambitious, complex sentences without fear of losing marks.
+
 → Template: `templates/1_form.md` · Phrases: `phrases/1_form.md`
 
 ## Task 2 — Formal writing
@@ -80,7 +82,7 @@ mock/
 - [ ] Re-read the task twice before writing
 - [ ] Identify which task type / sub-type it is
 - [ ] Mentally load the correct template
-- [ ] Section 3 (Task 1): write in full sentences, include complex structures
+- [ ] Section 3 (Task 1): write 7–8 full sentences, not just 5 — only your best 5 are marked, the rest are ignored, so include complex structures without fear
 - [ ] Tasks 2 & 3: write intro → body → conclusion, no skipping
 - [ ] Check register: formal throughout, no contractions
 - [ ] Count words (rough estimate): too short = lose marks
