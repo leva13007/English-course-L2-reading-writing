@@ -19,6 +19,7 @@ Multiple choice questions. **Follow each instruction exactly** — tick / circle
 **Section 3 — Written Responses**
 Open questions requiring written answers.
 - **Must write at least 5 correct sentences in total** across all questions in this section
+- **Examiners only mark the 5 best sentences from the whole section** — any extra sentences are ignored completely, even if they contain errors. Write 7–8 sentences so you can afford 1–2 ambitious or risky ones
 - Answers must be in full, grammatically correct sentences
 - Appropriate formal register
 - Accurate spelling and punctuation

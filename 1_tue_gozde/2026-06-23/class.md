@@ -12,7 +12,8 @@ The website for synonyms is https://www.thesaurus.com/
 - p 39-43
 
 
-
+HW:
+![alt text](image.png)
 
 
 

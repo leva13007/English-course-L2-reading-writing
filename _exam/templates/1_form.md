@@ -1,7 +1,7 @@
 # Task 1 — Form Template (AC 3.1)
 **30 min · Formal register**
 
-Strategy: Section 1 & 2 are quick (5 min). Spend 20–25 min on Section 3 — this is where the marks are.
+Strategy: Section 1 & 2 are quick (5 min). Spend 20–25 min on Section 3 — this is where the marks are. Write **7–8 sentences, not just 5** — examiners only mark your **5 best sentences** across the whole section and ignore the rest entirely, errors included, so the extra ones cost you nothing if they go wrong.
 
 ---
 
@@ -71,6 +71,6 @@ In the long term, I aspire to [YOUR GOAL — specific role or field]. I believe 
 
 - [ ] Section 1: all blanks filled in, capitals/lower case correct, address in right order
 - [ ] Section 2: each instruction followed exactly (tick / circle / delete / underline — as stated)
-- [ ] Section 3: ≥ 5 correct full sentences in total across all answers
+- [ ] Section 3: ≥ 5 correct full sentences in total across all answers — aim for 7–8, since only your best 5 are marked and the rest are ignored
 - [ ] No contractions (don't → do not, I'm → I am)
 - [ ] Formal register throughout
