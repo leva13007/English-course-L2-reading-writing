@@ -32,6 +32,15 @@ https://forms.cloud.microsoft/pages/responsepage.aspx?id=6obV1UpX0EKWycwbCJb0eHk
 
 
 
+HW:
+
+Task 2 Correspondence (Guide time 50 minutes)
+
+Your employer has asked members of staff for their opinions on how the room used for staff breaks could be improved. Write a letter to Head Office giving your views on why the room is unsuitable at the moment and proposing some changes. Write to: Head Office, Home Retailers, 28 Lord Road, Southway, S1 6PK You must plan the points you are going to include and how you are going to introduce, develop and finish your writing. Write using paragraphs. Write 200 or more words.
+
+Plan your letter here:
+
+Letter here:
 
 ## Materials
 
